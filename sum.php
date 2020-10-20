@@ -48,5 +48,8 @@ echo date("Y/m/d") . "($week_name[$w])\n";
 
 
 echo "yura";
+
+kkkkkkkkkkkk
+
 ?>
 
