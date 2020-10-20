@@ -46,5 +46,7 @@ $week_name = array("日", "月", "火", "水", "木", "金", "土");
 
 echo date("Y/m/d") . "($week_name[$w])\n"; 
 
+
+echo "yura";
 ?>
 
